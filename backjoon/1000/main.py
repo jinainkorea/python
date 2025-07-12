@@ -1,0 +1,8 @@
+input = input().split(" ")
+num1 = int(input[0])
+num2 = int(input[1])
+print(num1 + num2)
+print(num1 - num2)
+print(num1 * num2)
+print(num1 // num2)
+print(num1 % num2)
